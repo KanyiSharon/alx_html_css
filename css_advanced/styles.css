@@ -16,3 +16,43 @@ justify-content:centre;
 .width{
     width:10%;
 }
+ 
+.popular{
+    display: flex;;
+}
+
+/*play button*/
+.overlay1{
+position: absolute;
+  top: 210%;
+  right:87%;
+  width: 80px; 
+  height: 80px; 
+
+}
+
+.overlay2{
+    position:absolute;
+    top: 210%;
+    right:62%;
+    width: 80px; 
+    height: 80px; 
+}
+
+.overlay3{
+    position:absolute;
+    top: 210%;
+    right:37%;
+    width: 80px; 
+    height: 80px; 
+}
+.overlay4{
+    position:absolute;
+    top: 210%;
+    right:12%;
+    width: 80px; 
+    height: 80px; 
+}
+.purple{
+color: #c36afe;}
+
