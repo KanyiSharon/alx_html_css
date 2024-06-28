@@ -1,0 +1,18 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.quote{
+background-color: #c36afe;
+color: white;
+justify-content:centre;  
+
+
+}
+.quote img {
+    width:8%;
+
+}
+
+.width{
+    width:10%;
+}
