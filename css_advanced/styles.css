@@ -3,6 +3,14 @@
   color: white;
   justify-content: centre;
 }
+.navfont {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15.08px;
+  text-align: left;
+  text-decoration: none;
+}
 .quote img {
   width: 8%;
 }
@@ -125,10 +133,11 @@ button {
   gap: 20px;
   opacity: 0px;
 }
+/* 1280 x 720 px*/
 .membership {
   background-color: #071629;
-  width: 1440px;
-  height: 200px;
+  width: 90%;
+  height: 249px;
   top: 2109px;
   gap: 10%;
   padding: 5% 5% 0% 5%;
@@ -175,3 +184,12 @@ button {
   line-height: 24px;
   text-align: left;
 }
+.footer {
+  width: 1280px;
+  height: 250px;
+  top: 3469px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #071629;
+}
+/* 1280 x 720 px*/
