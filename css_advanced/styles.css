@@ -1,0 +1,195 @@
+.quote {
+  background-color: #c271ff;
+  color: white;
+  justify-content: centre;
+}
+.navfont {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15.08px;
+  text-align: left;
+  text-decoration: none;
+}
+.quote img {
+  width: 8%;
+}
+
+.width {
+  width: 10%;
+}
+
+.popular,
+.membership {
+  display: flex;
+}
+
+/*play button*/
+.overlay1 {
+  position: absolute;
+  top: 190%;
+  right: 82%;
+  width: 80px;
+  height: 80px;
+}
+
+.overlay2 {
+  position: absolute;
+  top: 190%;
+  right: 60%;
+  width: 80px;
+  height: 80px;
+}
+
+.overlay3 {
+  position: absolute;
+  top: 190%;
+  right: 37%;
+  width: 80px;
+  height: 80px;
+}
+.overlay4 {
+  position: absolute;
+  top: 190%;
+  right: 14%;
+  width: 80px;
+  height: 80px;
+}
+.purple {
+  color: #dcafff;
+}
+
+.align {
+  display: flex;
+}
+
+.top {
+  background-image: url("../css_advanced/CSS Advanced/Object.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+header nav ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  margin-left: 70%;
+}
+
+header nav ul li a {
+  margin: 0 15px;
+  color: white;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  color: white;
+  background-color: #dcafff;
+  border: 1px solid #dcafff;
+  border-radius: 5%;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 600;
+}
+.learn {
+  display: flex;
+  justify-content: center;
+}
+.learn > h2 {
+  font-family: Source Sans Pro;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40.22px;
+  text-align: center;
+}
+.pros {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto; /* Center the container itself within its parent */
+  opacity: 1;
+  width: 1009px;
+  height: 300px;
+  top: 758px;
+  left: 217px;
+  gap: 0px;
+  opacity: 0px;
+  /* Changed opacity to 1 for visibility */
+}
+.popular {
+  padding-left: 5%;
+  padding-right: 5%;
+  width: 1500px;
+  height: 450px;
+  top: 1572px;
+  left: 150px;
+  gap: 20px;
+  opacity: 0px;
+}
+/* 1280 x 720 px*/
+.membership {
+  background-color: #071629;
+  width: 90%;
+  height: 249px;
+  top: 2109px;
+  gap: 10%;
+  padding: 5% 5% 0% 5%;
+}
+
+.loren {
+}
+.popular > img {
+  width: 255px;
+  height: 154px;
+  gap: 0px;
+  opacity: 0px;
+}
+.white {
+  color: white;
+}
+.text {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  color: white;
+}
+
+.FAQ {
+  width: 920px;
+  height: 400px;
+  top: 2678px;
+  left: 300px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  gap: 20%;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10%;
+  padding-left: 10%;
+}
+.container {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+.footer {
+  width: 1280px;
+  height: 250px;
+  top: 3469px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #071629;
+}
+/* 1280 x 720 px*/
